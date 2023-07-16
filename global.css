@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mynerve: Mynerve;
+  --font-inherit: inherit;
+  --font-mansalva: Mansalva;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-2xl: 21px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-darkgray-100: #afa99b;
+  --color-linen: #f0ece2;
+  --color-gray-100: #23293a;
+  --color-gray-200: #17181c;
+  --color-antiquewhite: #efe9d9;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+  --br-xl: 20px;
+}

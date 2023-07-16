@@ -1,0 +1,465 @@
+.homepage-child {
+  position: absolute;
+  top: 2139px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1439px;
+  height: 913px;
+  display: none;
+}
+.homepage-item {
+  position: absolute;
+  top: 589px;
+  left: 0;
+  width: 1440px;
+  height: 1445px;
+  object-fit: cover;
+}
+.homepage-inner {
+  position: absolute;
+  top: 1863px;
+  left: 150px;
+  background-color: #3c3129;
+  width: 1145px;
+  height: 238px;
+}
+.here-we-serves {
+  top: 1937px;
+  left: 259px;
+  text-align: center;
+  width: 922px;
+  height: 97px;
+}
+.here-we-serves,
+.more-strategies,
+.sleep-deprivation-is {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.sleep-deprivation-is {
+  top: 2536px;
+  left: 709px;
+  text-align: center;
+  width: 586px;
+  height: 91px;
+}
+.more-strategies {
+  top: 4690px;
+  left: 638px;
+  width: 162px;
+  height: 18px;
+}
+.additional-resources,
+.consequences,
+.home,
+.strategy,
+.tips-guides {
+  position: absolute;
+  top: 52px;
+  left: 450px;
+  display: inline-block;
+  width: 103px;
+  height: 17px;
+}
+.additional-resources,
+.home,
+.strategy,
+.tips-guides {
+  left: 611px;
+  width: 66px;
+}
+.additional-resources,
+.home,
+.tips-guides {
+  left: 735px;
+  width: 91px;
+}
+.additional-resources,
+.home {
+  left: 884px;
+  width: 210px;
+}
+.home {
+  left: 347px;
+  width: 45px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 3090px;
+  left: 0;
+  background-color: #21323f;
+  width: 1440px;
+  height: 378px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 3764px;
+  left: 231px;
+  width: 975px;
+  height: 849px;
+  object-fit: cover;
+}
+.homepage-child1,
+.line-div {
+  position: absolute;
+  top: 222px;
+  left: 149px;
+  border-right: 2px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+  width: 2px;
+  height: 232px;
+}
+.homepage-child1 {
+  top: 2397px;
+  left: 645px;
+  height: 419px;
+}
+.read-more {
+  position: absolute;
+  top: 3371px;
+  left: 1183px;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite);
+  display: inline-block;
+  width: 110px;
+  height: 18px;
+}
+.sleep-deprivation {
+  margin: 0;
+}
+.sleep-deprivation-container,
+.what-is-sleep-container {
+  text-transform: uppercase;
+  font-family: var(--font-mansalva);
+  color: var(--color-antiquewhite);
+}
+.sleep-deprivation-container {
+  position: absolute;
+  top: 223px;
+  left: 182px;
+  font-size: 86px;
+  line-height: 115px;
+  display: inline-block;
+  width: 1030px;
+}
+.what-is-sleep-container {
+  top: 2524px;
+  left: 184px;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  width: 417px;
+}
+.consequences1,
+.did-you-know,
+.what-is-sleep-container {
+  position: absolute;
+  display: inline-block;
+}
+.did-you-know {
+  top: 3242px;
+  left: 148px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-antiquewhite);
+  text-align: center;
+  width: 1140px;
+  height: 24px;
+}
+.consequences1 {
+  top: 7693px;
+  left: 133px;
+  width: 124px;
+  height: 17px;
+}
+.additional-resources2,
+.robert-robertson-1234,
+.strategy1,
+.tips-guides1 {
+  position: absolute;
+  top: 7693px;
+  left: 257px;
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.additional-resources2,
+.robert-robertson-1234,
+.tips-guides1 {
+  left: 341px;
+  width: 117px;
+}
+.additional-resources2,
+.robert-robertson-1234 {
+  left: 453px;
+  width: 261px;
+}
+.robert-robertson-1234 {
+  top: 7557px;
+  left: 934px;
+  font-size: var(--font-size-xl);
+  line-height: 0%;
+  color: var(--color-antiquewhite);
+  width: 355px;
+  height: 58px;
+}
+.div,
+.peterparkerzylkercom {
+  left: 934px;
+  line-height: 185.5%;
+  color: var(--color-antiquewhite);
+  width: 333px;
+  height: 27px;
+}
+.div {
+  position: absolute;
+  top: 7662px;
+  font-size: 19px;
+  display: inline-block;
+}
+.peterparkerzylkercom {
+  top: 7735px;
+  font-size: var(--font-size-2xl);
+}
+.home1,
+.jeq-studio,
+.peterparkerzylkercom {
+  position: absolute;
+  display: inline-block;
+}
+.jeq-studio {
+  top: 7802px;
+  left: 934px;
+  font-size: var(--font-size-2xl);
+  line-height: 185.5%;
+  color: var(--color-antiquewhite);
+  width: 333px;
+  height: 27px;
+}
+.home1 {
+  top: 7693px;
+  left: 67px;
+  width: 52px;
+  height: 17px;
+}
+.homepage-child2 {
+  position: absolute;
+  top: 6981px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 433px;
+}
+.untitled-1-3-icon,
+.untitled-1-4-icon {
+  position: absolute;
+  top: 7723px;
+  left: 852px;
+  width: 53px;
+  height: 52px;
+  object-fit: cover;
+}
+.untitled-1-4-icon {
+  top: 7793px;
+  left: 854px;
+  width: 46px;
+  height: 45px;
+}
+.jequllunzall-rights-reserved {
+  position: absolute;
+  top: 7886px;
+  left: 19px;
+  color: #989898;
+}
+.sleep-deprivation-container1 {
+  position: absolute;
+  top: 7539px;
+  left: 67px;
+  font-size: 38px;
+  text-transform: uppercase;
+  font-family: var(--font-mansalva);
+  color: var(--color-antiquewhite);
+  display: inline-block;
+  width: 411px;
+}
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 7548px;
+  left: 855px;
+  width: 45px;
+  height: 44px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 7659px;
+  left: 854px;
+  width: 44px;
+}
+.confession-box {
+  position: absolute;
+  top: 4974px;
+  left: 184px;
+  font-size: var(--font-size-13xl);
+  text-transform: uppercase;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 386px;
+  height: 58px;
+  -webkit-text-stroke: 1px #17181c;
+}
+.homepage-child3,
+.homepage-child4 {
+  position: absolute;
+  top: 6854px;
+  left: 150px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-antiquewhite);
+  width: 1140px;
+  height: 363px;
+}
+.homepage-child4 {
+  top: 6963px;
+  background-color: var(--color-gray-200);
+  height: 282px;
+}
+.image-removebg-preview-2-icon {
+  position: absolute;
+  top: 7200px;
+  left: 1215px;
+  width: 41px;
+  height: 24px;
+  object-fit: cover;
+}
+.confession-box1,
+.x {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.confession-box1 {
+  top: 6880px;
+  left: 184px;
+  text-transform: uppercase;
+  color: var(--color-gray-200);
+  width: 386px;
+  height: 30px;
+  -webkit-text-stroke: 1px #17181c;
+}
+.x {
+  top: 6975px;
+  left: 1232px;
+  letter-spacing: 0.01em;
+  color: #f2f2f2;
+  width: 24px;
+  height: 31px;
+}
+.image-9-icon {
+  position: absolute;
+  top: 6980px;
+  left: 184px;
+  width: 82px;
+  height: 65px;
+  object-fit: cover;
+}
+.break-free-from-container {
+  position: absolute;
+  top: 6924px;
+  left: 184px;
+  color: rgba(23, 24, 28, 0.7);
+  display: inline-block;
+  width: 482px;
+  height: 17px;
+}
+.homepage-child5 {
+  position: absolute;
+  top: 5003px;
+  left: 0;
+  width: 1441px;
+  height: 1441px;
+  object-fit: cover;
+}
+.homepage-child6,
+.rectangle-input {
+  position: absolute;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-100);
+}
+.rectangle-input {
+  border: 0;
+  top: 5360px;
+  left: 148px;
+  width: 425px;
+  height: 423px;
+}
+.homepage-child6 {
+  top: 5970px;
+  left: 666px;
+  width: 622px;
+  height: 320px;
+}
+.design-of-an {
+  text-decoration: underline;
+}
+.design-of-an-ideal-bedroom {
+  color: inherit;
+}
+.eliminate-outside-noise {
+  margin-bottom: 0;
+}
+.maintain-a-cool-bedroom-temper {
+  margin: 0;
+  padding-left: 21px;
+}
+.a-sleep-diary-container,
+.an-ideal-sleep-container {
+  position: absolute;
+  line-height: 0%;
+  color: var(--font-inherit);
+  display: inline-block;
+}
+.an-ideal-sleep-container {
+  top: 5425px;
+  left: 206px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  width: 345px;
+  height: 293px;
+}
+.a-sleep-diary-container {
+  top: 6045px;
+  left: 719px;
+  width: 516px;
+  height: 130px;
+}
+.download-sleep-dairy,
+.view-for-more {
+  position: absolute;
+  display: inline-block;
+  height: 18px;
+}
+.download-sleep-dairy {
+  top: 6227px;
+  left: 882px;
+  text-decoration: underline;
+  color: inherit;
+  width: 189px;
+}
+.view-for-more {
+  top: 5933px;
+  left: 206px;
+  font-size: var(--font-size-5xl);
+  width: 230px;
+}
+.homepage {
+  position: relative;
+  background: linear-gradient(#17181c, #17181c), #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 7917px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-mynerve);
+}
